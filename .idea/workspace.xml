@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dbed80a-8b7e-4350-a8cc-93c631489833" name="Changes" comment="BugFix Commit2" />
+    <list default="true" id="7dbed80a-8b7e-4350-a8cc-93c631489833" name="Changes" comment="commit to master">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature file " beforeDir="false" afterPath="$PROJECT_DIR$/Feature file " afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Bugfix_Branch" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "17"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Bugfix1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bugfix1" />
@@ -51,6 +54,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bugfix1" />
+        <item itemvalue="Application.Bugfix1" />
         <item itemvalue="Application.Bugfix1" />
       </list>
     </recent_temporary>
@@ -78,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679096466746</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit to master">
+      <created>1679096689424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679096689424</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BugFix Commit" />
     <MESSAGE value="BugFix Commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="BugFix Commit2" />
+    <MESSAGE value="commit to master" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit to master" />
   </component>
 </project>
